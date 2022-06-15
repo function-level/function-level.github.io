@@ -14,9 +14,9 @@
 
 [Wikipedia: Function-level Programming](https://en.wikipedia.org/wiki/Function-level_programming)
 
-[Dirk Gerriits: John Backus](http://dirkgerrits.com/publications/john-backus.pdf#section.10)
+[Dirk Gerrits: John Backus](http://dirkgerrits.com/publications/john-backus.pdf#section.10)
 
-Last Years of John Backus \
+### Last Years of John Backus \
 Oral History of John Backus \
 Interview, [Text](https://archive.computerhistory.org/resources/access/text/2013/05/102657970-05-01-acc.pdf) \
 Interview, [Video](https://www.youtube.com/watch?v=dDsWTyLEgbk)
@@ -24,6 +24,8 @@ Interview, [Video](https://www.youtube.com/watch?v=dDsWTyLEgbk)
 Reactions on Grady Boochs instrumentalization of Backus statement \
 [Reddit](https://www.reddit.com/r/programming/comments/8zgq3j/i_interviewed_john_backus_shortly_before_his/), 
 [Twitter](https://twitter.com/Grady_Booch/status/1016041695501139968)
+
+### The Transition to the Pointfree Style
 
 [LtU advantages of Pointfree](http://lambda-the-ultimate.org/node/3233)
 
