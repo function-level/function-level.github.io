@@ -10,4 +10,6 @@
 
 
 
-[Link-Sammlung1](https://flinks-72c22.firebaseapp.com/)
+[Link-Sammlung-1](https://flinks-72c22.firebaseapp.com/)
+
+[LtU advantages of Pointfree](http://lambda-the-ultimate.org/node/3233)
