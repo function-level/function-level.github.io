@@ -6,17 +6,17 @@
 
 ### A Collection of Links
 
-[Backus-Turing-Award-Lecture](https://dl.acm.org/doi/pdf/10.1145/359576.359579)
+Can Programming Liberated ... [Backus-Turing-Award-Lecture](https://dl.acm.org/doi/pdf/10.1145/359576.359579)
 
-[Function Level Programming and the FL Language](https://archive.org/details/JohnBack1987)
+Function Level Programming and the FL Language, [Video](https://archive.org/details/JohnBack1987)
 
 [FL Language Manual, Parts 1 and 2](https://theory.stanford.edu/~aiken/publications/trs/RJ7100.pdf)
 
-[Wikipedia: Function-level Programming](https://en.wikipedia.org/wiki/Function-level_programming)
+Wikipedia: [Function-level Programming](https://en.wikipedia.org/wiki/Function-level_programming)
 
-[Dirk Gerrits: John Backus](http://dirkgerrits.com/publications/john-backus.pdf#section.10)
+Dirk Gerrits: [John Backus](http://dirkgerrits.com/publications/john-backus.pdf#section.10)
 
-### Last Years of John Backus \
+### Last Years of John Backus
 Oral History of John Backus \
 Interview, [Text](https://archive.computerhistory.org/resources/access/text/2013/05/102657970-05-01-acc.pdf) \
 Interview, [Video](https://www.youtube.com/watch?v=dDsWTyLEgbk)
