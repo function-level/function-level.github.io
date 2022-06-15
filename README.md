@@ -10,7 +10,23 @@
 
 [Function Level Programming and the FL Language](https://archive.org/details/JohnBack1987)
 
+[FL Language Manual, Parts 1 and 2](https://theory.stanford.edu/~aiken/publications/trs/RJ7100.pdf)
+
+[Wikipedia: Function-level Programming](https://en.wikipedia.org/wiki/Function-level_programming)
+
+[Dirk Gerriits: John Backus](http://dirkgerrits.com/publications/john-backus.pdf#section.10)
+
+Last Years of John Backus \
+Oral History of John Backus \
+Interview, [Text](https://archive.computerhistory.org/resources/access/text/2013/05/102657970-05-01-acc.pdf) \
+Interview, [Video](https://www.youtube.com/watch?v=dDsWTyLEgbk)
+
+[LtU advantages of Pointfree](http://lambda-the-ultimate.org/node/3233)
+
+[concatenative Languages, Jon Purdy](http://evincarofautumn.blogspot.com/2012/02/why-concatenative-programming-matters.html)
+
+## Some Link Collections
 [Link-Sammlung-1](https://flinks-72c22.firebaseapp.com/) \
 [Link-Collection-2](https://medium.com/@christoph.sachse/the-fp-and-fl-programming-languages-assorted-resources-linkdump-e310914221a9)
 
-[LtU advantages of Pointfree](http://lambda-the-ultimate.org/node/3233)
+
