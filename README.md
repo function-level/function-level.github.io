@@ -22,7 +22,7 @@ Interview, [Text](https://archive.computerhistory.org/resources/access/text/2013
 Interview, [Video](https://www.youtube.com/watch?v=dDsWTyLEgbk)
 
 Reactions on Grady Boochs instrumentalization of Backus statement \
-[Reddit](https://www.reddit.com/r/programming/comments/8zgq3j/i_interviewed_john_backus_shortly_before_his/) \
+[Reddit](https://www.reddit.com/r/programming/comments/8zgq3j/i_interviewed_john_backus_shortly_before_his/), 
 [Twitter](https://twitter.com/Grady_Booch/status/1016041695501139968)
 
 [LtU advantages of Pointfree](http://lambda-the-ultimate.org/node/3233)
