@@ -6,7 +6,8 @@
 
 ### A Collection of Links
 
-Can Programming Liberated ... [Backus-Turing-Award-Lecture](https://dl.acm.org/doi/pdf/10.1145/359576.359579)
+"Can programming be liberated from the von Neumann style? \
+a functional style and its algebra of programs", [Backus-Turing-Award-Lecture](https://dl.acm.org/doi/pdf/10.1145/359576.359579)
 
 Function Level Programming and the FL Language, [Video](https://archive.org/details/JohnBack1987)
 
