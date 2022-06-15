@@ -36,3 +36,5 @@ LtU: [Advantages of Pointfree](http://lambda-the-ultimate.org/node/3233)
 [Link-Collection-2](https://medium.com/@christoph.sachse/the-fp-and-fl-programming-languages-assorted-resources-linkdump-e310914221a9)
 
 
+\
+Picture: (cc-by-sa-4.0) Wikipedia
