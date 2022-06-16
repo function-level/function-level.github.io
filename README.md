@@ -57,7 +57,7 @@ Wiki for [Concatenative.org](https://concatenative.org/wiki/view/Front%20Page)
 - [Ramda.js](https://ramdajs.com/)
 - [Ramda Python port](https://pypi.org/project/ramda/)
 
-## Some Implementations to FP and Pointfree
+## Some Implementations to FP, FL and Pointfree
 [Implementations](https://github.com/function-level/function-level.github.io/blob/main/implementations.md)
 
 
