@@ -2,8 +2,8 @@
 
 
 ![John-Backus](https://raw.githubusercontent.com/function-level/function-level.github.io/main/data/John-Backus.png) \
-"Can programming be liberated from the von Neumann style? \
-a functional style and its algebra of programs", [Backus-Turing-Award-Lecture](https://dl.acm.org/doi/pdf/10.1145/359576.359579)
+**"Can programming be liberated from the von Neumann style? \
+a functional style and its algebra of programs"**, [Backus-Turing-Award-Lecture](https://dl.acm.org/doi/pdf/10.1145/359576.359579)
 
 ### A Collection of Links
 
@@ -28,7 +28,7 @@ Reactions on Grady Boochs instrumentalization of Backus statement \
 
 LtU: [Advantages of Pointfree](http://lambda-the-ultimate.org/node/3233)
 
-Stackoverflow: [Advantages and Disadvantages of Pointfree Style](https://stackoverflow.com/questions/5671271/what-are-advantages-and-disadvantages-of-point-free-style-in-functional-progra)
+stack**overflow**: [Advantages and Disadvantages of Pointfree Style](https://stackoverflow.com/questions/5671271/what-are-advantages-and-disadvantages-of-point-free-style-in-functional-progra)
 
 [concatenative Languages, Jon Purdy](http://evincarofautumn.blogspot.com/2012/02/why-concatenative-programming-matters.html)
 
