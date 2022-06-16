@@ -1,8 +1,8 @@
 ## Implementations to FP and Pointfree
 
-Interpreter in Java: [INTERACTIVE FP](https://www.cse.sc.edu/~bays/group9/index1.html), and [Help](https://www.cse.sc.edu/~bays/group9/help.html)
+Interpreter in Java: [INTERACTIVE FP](https://www.cse.sc.edu/~bays/group9/index1.html) and [Help](https://www.cse.sc.edu/~bays/group9/help.html)
 
-[Interpreter in Lisp](https://code.google.com/archive/p/fp-interpreter-in-lisp/)
+[FP-Interpreter-in-Lisp](https://code.google.com/archive/p/fp-interpreter-in-lisp/)
 
 Compiler to C [Furry Paws](https://web.archive.org/web/20180106183517/http://www.call-with-current-continuation.org/fp/)
 
