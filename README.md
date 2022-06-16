@@ -60,6 +60,7 @@ Wiki for [Concatenative.org](https://concatenative.org/wiki/view/Front%20Page)
 ## Some Implementations to FP and Pointfree
 [Implementations](https://github.com/function-level/function-level.github.io/blob/main/implementations.md)
 
+\
 ## Some Link Collections
 [Link-Sammlung-1](https://flinks-72c22.firebaseapp.com/) \
 [Link-Collection-2](https://medium.com/@christoph.sachse/the-fp-and-fl-programming-languages-assorted-resources-linkdump-e310914221a9)
