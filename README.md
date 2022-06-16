@@ -12,7 +12,7 @@ a functional style and its algebra of programs"**, [Backus-Turing-Award-Lecture]
 - Dirk Gerrits: [John Backus](http://dirkgerrits.com/publications/john-backus.pdf#section.10)
 
 ### Last Years of John Backus
-Oral History of John Backus \
+Oral History of John Backus
 - Interview, [Text](https://archive.computerhistory.org/resources/access/text/2013/05/102657970-05-01-acc.pdf)
 - Interview, [Video](https://www.youtube.com/watch?v=dDsWTyLEgbk)
 
