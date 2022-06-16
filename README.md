@@ -57,6 +57,9 @@ Wiki for [Concatenative.org](https://concatenative.org/wiki/view/Front%20Page)
 - [Ramda.js](https://ramdajs.com/)
 - [Ramda Python port](https://pypi.org/project/ramda/)
 
+## Some Implementation to FP and Pointfree
+[Implementations]()
+
 ## Some Link Collections
 [Link-Sammlung-1](https://flinks-72c22.firebaseapp.com/) \
 [Link-Collection-2](https://medium.com/@christoph.sachse/the-fp-and-fl-programming-languages-assorted-resources-linkdump-e310914221a9)
