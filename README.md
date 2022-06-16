@@ -32,6 +32,8 @@ Stackoverflow: [Advantages and Disadvantages of Pointfree Style](https://stackov
 
 [concatenative Languages, Jon Purdy](http://evincarofautumn.blogspot.com/2012/02/why-concatenative-programming-matters.html)
 
+Wiki for [Concatenative.org](https://concatenative.org/wiki/view/Front%20Page)
+
 ### Algebraic Programming
 - [Algebraic Identities for Program Calculation](https://www.researchgate.net/profile/Richard-Bird-2/publication/220458641_Algebraic_Identities_for_Program_Calculation/links/57c7f67108ae28c01d4ff3a1/Algebraic-Identities-for-Program-Calculation.pdf)
 - [Point-Free Program Calculation](http://repositorium.sdum.uminho.pt/bitstream/1822/2869/1/tese.pdf)
