@@ -1,6 +1,5 @@
 ## From Function-Level Programming to Pointfree Style
 
-
 ![John-Backus](https://raw.githubusercontent.com/function-level/function-level.github.io/main/data/John-Backus.png) \
 **"Can programming be liberated from the von Neumann style? \
 a functional style and its algebra of programs"**, [Backus-Turing-Award-Lecture](https://dl.acm.org/doi/pdf/10.1145/359576.359579)
@@ -16,7 +15,7 @@ Oral History of John Backus
 - Interview, [Text](https://archive.computerhistory.org/resources/access/text/2013/05/102657970-05-01-acc.pdf)
 - Interview, [Video](https://www.youtube.com/watch?v=dDsWTyLEgbk)
 
-Reactions on Grady Boochs instrumentalization of Backus statement
+**Reactions on Grady Boochs instrumentalization of Backus statement**
 - [Reddit](https://www.reddit.com/r/programming/comments/8zgq3j/i_interviewed_john_backus_shortly_before_his/)
 - [Twitter](https://twitter.com/Grady_Booch/status/1016041695501139968)
 
