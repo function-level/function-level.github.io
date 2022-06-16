@@ -28,7 +28,7 @@ Reactions on Grady Boochs instrumentalization of Backus statement \
 
 LtU: [Advantages of Pointfree](http://lambda-the-ultimate.org/node/3233)
 
-[Advantages and Disadvantages of Pointfree Style](https://stackoverflow.com/questions/5671271/what-are-advantages-and-disadvantages-of-point-free-style-in-functional-progra)
+Stackoverflow: [Advantages and Disadvantages of Pointfree Style](https://stackoverflow.com/questions/5671271/what-are-advantages-and-disadvantages-of-point-free-style-in-functional-progra)
 
 [concatenative Languages, Jon Purdy](http://evincarofautumn.blogspot.com/2012/02/why-concatenative-programming-matters.html)
 
