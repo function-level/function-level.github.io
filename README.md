@@ -49,7 +49,7 @@ Oral History of John Backus
 - [Ramda Python port](https://pypi.org/project/ramda/)
 
 ## Some Implementations to FP, FL and Pointfree
-- [Implementations](https://github.com/function-level/function-level.github.io/blob/main/implementations.md)
+- [Implementations](https://function-level.github.io/implementations.md)
 
 
 ## Some Link Collections
