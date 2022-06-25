@@ -19,11 +19,9 @@ Oral History of John Backus
 - [Reddit](https://www.reddit.com/r/programming/comments/8zgq3j/i_interviewed_john_backus_shortly_before_his/)
 - [Twitter](https://twitter.com/Grady_Booch/status/1016041695501139968)
 
-### Transition to the Pointfree Style
+### Advantages and Disatvanages of Pointfree Style
 - LtU: [Advantages of Pointfree](http://lambda-the-ultimate.org/node/3233)
 - stack**overflow**: [Advantages and Disadvantages of Pointfree Style](https://stackoverflow.com/questions/5671271/what-are-advantages-and-disadvantages-of-point-free-style-in-functional-progra)
-- [Concatenative Languages, Jon Purdy](http://evincarofautumn.blogspot.com/2012/02/why-concatenative-programming-matters.html)
-- Wiki for [concatenative.org](https://concatenative.org/wiki/view/Front%20Page)
 
 ### Algebraic Programming
 - [Algebraic Identities for Program Calculation](https://www.researchgate.net/profile/Richard-Bird-2/publication/220458641_Algebraic_Identities_for_Program_Calculation/links/57c7f67108ae28c01d4ff3a1/Algebraic-Identities-for-Program-Calculation.pdf)
@@ -32,6 +30,15 @@ Oral History of John Backus
 - [Pearls of Functional Algorithm Design](https://doc.lagout.org/programmation/Functional%20Programming/Pearls%20of%20Functional%20Algorithm%20Design.pdf)
 - [Bird-Meertens Formalism](https://en.wikipedia.org/wiki/Bird%E2%80%93Meertens_formalism)
 
+### Concatenative languages
+- [Factor](https://factorcode.org/)
+- [OForth](http://www.oforth.com/)
+- [Joy](https://en.wikipedia.org/wiki/Joy_(programming_language))
+- [Kitten](https://kittenlang.org/)
+- [PostScript](https://en.wikipedia.org/wiki/PostScript)
+- [Why Concatenative Programming Matters by Jon Purdy](http://evincarofautumn.blogspot.com/2012/02/why-concatenative-programming-matters.html)
+- Wiki for [concatenative.org](https://concatenative.org/wiki/view/Front%20Page)
+
 ### Code Golf languages (many of which are stack-based and/or point-free)
 - [Code Golf Stack Exchange](https://codegolf.stackexchange.com/)
 - [Husk](https://github.com/barbuz/Husk)
@@ -39,10 +46,11 @@ Oral History of John Backus
 
 ### Array Languages (which support point-free style)
 - [Notation as a Tool of Thought](https://www.eecg.utoronto.ca/~jzhu/csc326/readings/iverson.pdf) -- must read!
-- APL
-- J
-- K
-- Q
+- [Stages of Denial by John Earnest](http://nsl.com/papers/denial.html)
+- [APL](https://www.dyalog.com/)
+- [J](https://www.jsoftware.com/#/)
+- [K](https://github.com/JohnEarnest/ok)
+- [Q](https://code.kx.com/q/learn/tour/)
 
 ### Libraries that support point-free style
 - [Ramda.js](https://ramdajs.com/)
@@ -54,8 +62,6 @@ Oral History of John Backus
 - Compiler to C: [Furry Paws](https://web.archive.org/web/20180106183517/http://www.call-with-current-continuation.org/fp/) and in [BitBucket](https://bitbucket.org/bunny351/furry-paws/src/master/)
 - to FL: [PLaSM](http://www.dia.uniroma3.it/~paoluzzi/plasm/download/) and [Docs](http://www.dia.uniroma3.it/~paoluzzi/plasm/docs/) and Book: [Introduction to FL and PLaSM](https://media.johnwiley.com.au/product_data/excerpt/29/04718994/0471899429.pdf)
 - [FP-Interpreter](https://pf-system.github.io/) in Delphi and in Lazarus
-
-
 
 ### Some Link Collections
 - [Link-Sammlung-1](https://flinks-72c22.firebaseapp.com/)
