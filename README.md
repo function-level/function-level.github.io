@@ -20,7 +20,7 @@ Oral History of John Backus
 - [Twitter](https://twitter.com/Grady_Booch/status/1016041695501139968)
 
 ### Advantages and Disatvanages of Pointfree Style
-- LtU: [Advantages of Pointfree](http://lambda-the-ultimate.org/node/3233)
+- LtU: [Advantages of Pointfree](http://lambda-the-ultimate.org/node/3233) / [Wayback](https://web.archive.org/web/20220714180933/http://lambda-the-ultimate.org/node/3233), Jul-4-2022
 - stack**overflow**: [Advantages and Disadvantages of Pointfree Style](https://stackoverflow.com/questions/5671271/what-are-advantages-and-disadvantages-of-point-free-style-in-functional-progra)
 
 ### Algebraic Programming
