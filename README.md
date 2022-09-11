@@ -1,5 +1,8 @@
 ## From Function-Level Programming to Pointfree Style
 
+Functional Programming is with [Lambdas](https://en.wikipedia.org/wiki/Lambda_calculus) ([value-level](https://en.wikipedia.org/wiki/Function-level_programming))
+Function-level Programming is without Lambdas ([function-level](https://en.wikipedia.org/wiki/Function-level_programming))
+
 ![John-Backus](https://raw.githubusercontent.com/function-level/function-level.github.io/main/data/John-Backus.png) \
 **"Can programming be liberated from the von Neumann style? \
 a functional style and its algebra of programs"**, [Backus-Turing-Award-Lecture](https://dl.acm.org/doi/pdf/10.1145/359576.359579)
