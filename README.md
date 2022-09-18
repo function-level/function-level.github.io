@@ -12,6 +12,7 @@ a functional style and its algebra of programs"**, [Backus-Turing-Award-Lecture]
 - [FL Language Manual, Parts 1 and 2](https://theory.stanford.edu/~aiken/publications/trs/RJ7100.pdf)
 - Wikipedia: [Function-level Programming](https://en.wikipedia.org/wiki/Function-level_programming)
 - Dirk Gerrits: [John Backus](http://dirkgerrits.com/publications/john-backus.pdf#section.10)
+- dl.acm.org: [Function Level Programs as Mathematical Objects](https://dl.acm.org/doi/pdf/10.1145/800223.806757)
 
 ### Last Years of John Backus
 Oral History of John Backus
