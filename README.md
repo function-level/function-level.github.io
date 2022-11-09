@@ -14,7 +14,7 @@ a functional style and its algebra of programs"**, [Backus-Turing-Award-Lecture]
 - Dirk Gerrits: [John Backus](http://dirkgerrits.com/publications/john-backus.pdf#section.10)
 - dl.acm.org: [Function Level Programs as Mathematical Objects](https://dl.acm.org/doi/pdf/10.1145/800223.806757)
 - MacLennan/POPL [Chapter 10](http://web.eecs.utk.edu/~bmaclenn/POPL/ch10.pdf) page 359ff
-- MacLennan/Functional Programming: Practice and Theory, borrow eBook at [Archive.org](https://archive.org/details/functionalprogra0000macl), Page 221ff: Higher-Order Functions
+- MacLennan/Functional Programming: Practice and Theory, [borrow eBook](https://archive.org/details/functionalprogra0000macl), Page 221ff: Higher-Order Functions
 
 ### Last Years of John Backus
 Oral History of John Backus
