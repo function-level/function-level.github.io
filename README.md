@@ -32,7 +32,7 @@ Oral History of John Backus
 ### Algebraic Programming
 - [Algebraic Identities for Program Calculation](https://www.researchgate.net/profile/Richard-Bird-2/publication/220458641_Algebraic_Identities_for_Program_Calculation/links/57c7f67108ae28c01d4ff3a1/Algebraic-Identities-for-Program-Calculation.pdf)
 - [Point-Free Program Calculation](http://repositorium.sdum.uminho.pt/bitstream/1822/2869/1/tese.pdf)
-- [Algebra of Programming](https://themattchan.com/docs/algprog.pdf)
+- [Algebra of Programming](https://ks3-cn-beijing.ksyun.com/attachment/0ed5f41c9bf19f39a9fb3fcf6ddd8bd8)
 - [Pearls of Functional Algorithm Design](https://doc.lagout.org/programmation/Functional%20Programming/Pearls%20of%20Functional%20Algorithm%20Design.pdf)
 - [Bird-Meertens Formalism](https://en.wikipedia.org/wiki/Bird%E2%80%93Meertens_formalism)
 
