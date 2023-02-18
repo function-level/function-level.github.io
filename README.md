@@ -13,6 +13,7 @@ a functional style and its algebra of programs"**, [Backus-Turing-Award-Lecture]
 - [FL Language Manual, Parts 1 and 2](https://theory.stanford.edu/~aiken/publications/trs/RJ7100.pdf)
 - Wikipedia: [Function-level Programming](https://en.wikipedia.org/wiki/Function-level_programming)
 - Dirk Gerrits: [John Backus](http://dirkgerrits.com/publications/john-backus.pdf#section.10)
+- dl.acm.org: [Programming Language Semantics and Closed Applicative Languages](https://dl.acm.org/doi/pdf/10.1145/512927.512934)
 - dl.acm.org: [Function Level Programs as Mathematical Objects](https://dl.acm.org/doi/pdf/10.1145/800223.806757)
 - SpringerLink: [From function level semantics to program transformation and optimization](https://link.springer.com/content/pdf/10.1007/3-540-15198-2_5.pdf?pdf=inline%20link)
 - MacLennan/POPL [Chapter 10](http://web.eecs.utk.edu/~bmaclenn/POPL/ch10.pdf) page 359ff
