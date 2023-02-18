@@ -18,6 +18,7 @@ a functional style and its algebra of programs"**, [Backus-Turing-Award-Lecture]
 - SpringerLink: [From function level semantics to program transformation and optimization](https://link.springer.com/content/pdf/10.1007/3-540-15198-2_5.pdf?pdf=inline%20link)
 - MacLennan/POPL [Chapter 10](http://web.eecs.utk.edu/~bmaclenn/POPL/ch10.pdf) page 359ff
 - MacLennan/Functional Programming: Practice and Theory, [borrow eBook](https://archive.org/details/functionalprogra0000macl), Page 221ff: Higher-Order Functions
+- Instance variables, a [way out](https://esolangs.org/wiki/FP_trivia) of the variable abstinence
 
 ### Last Years of John Backus
 Oral History of John Backus
