@@ -77,7 +77,7 @@ Oral History of John Backus
 - Compiler to C: [Furry Paws](https://web.archive.org/web/20180106183517/http://www.call-with-current-continuation.org/fp/) and in [BitBucket](https://bitbucket.org/bunny351/furry-paws/src/master/)
 - to FL: [PLaSM](http://www.dia.uniroma3.it/~paoluzzi/plasm/download/) and [Docs](http://www.dia.uniroma3.it/~paoluzzi/plasm/docs/) and Book: [Introduction to FL and PLaSM](https://media.johnwiley.com.au/product_data/excerpt/29/04718994/0471899429.pdf)
 - [FP-Interpreter](https://pointfree-interpreter.github.io/) in Delphi and in Lazarus
-- Pointfrip [Calculator](https://github.com/pointfrip/calculator) für Android, (German help)
+- Pointfrip [Calculator](https://github.com/pointfrip/calculator) for Android, (Engish and German help)
 - Executable implementation of [Joy](https://github.com/Wodan58/Joy) and subset of Joy for graphics programming [mjoy](https://github.com/fpstefan/mjoy)
 
 ### Some Link Collections
